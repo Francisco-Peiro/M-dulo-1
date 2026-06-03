@@ -1,7 +1,7 @@
 # modulo-1
 | Nombre y Apellido | Dirección de mail | Número de teléfono | Link |
 |:-----------------:|:-----------------:|:------------------:|:------------------:|
-|Francisco Peiro|franpeiro15@gmail.com|2615176847||
+|Francisco Peiro|franpeiro15@gmail.com|2615176847|https://github.com/Francisco-Peiro|
 
 # modulo-2
 
