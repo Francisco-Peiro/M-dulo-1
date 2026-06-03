@@ -4,7 +4,7 @@
 |Francisco Peiro|franpeiro15@gmail.com|2615176847|https://github.com/Francisco-Peiro|
 
 # modulo-2
-https://github.com/Francisco-Peiro/modulo-2-
+https://github.com/Francisco-Peiro/modulo-2
 # modulo-3
 https://github.com/Francisco-Peiro/modulo-3
 # modulo-4
